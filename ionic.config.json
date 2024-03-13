@@ -1,0 +1,7 @@
+{
+  "name": "memory-leak-investigation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
